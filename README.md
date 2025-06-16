@@ -1,4 +1,13 @@
-## Holi
+## mlc1503
+
+Holi, soy Manel y este es mi repo. Aquí encontrarás los proyectos que tengo entre manos. Soy curioso por naturaleza y me encanta trastear con cosas, no necesariamente tienen que llegar a ningún lado.
+
+Soy desarrollador full-stack multiplataforma, he hecho tanto aplicaciones móviles como proyectos web. Tengo bastante experiencia con Java, y también conozco frameworks como React (y React Native), Vue, Flet, .NET MAUI y algunos más.
+
+Si quieres conocerme como persona, (mis intereses, mis pensamientos, mis pasiones...) tengo una web que puedes visitar [haciendo click aquí](https://www.mlc1503.github.io). (*lenguaje informal*)
+
+*We're Human After All.*
+
 
 <!--
 **mlc1503/mlc1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
